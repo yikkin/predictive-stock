@@ -1,0 +1,19 @@
+Méthodes de Machine Learning à appliquer :
+
+Support Vector Machine
+Polynomial Regression 
+
+Se documenter sur ces modèles et les appliquer pour chacun des fichiers de données de type csv
+
+Dans chacun des fichiers qui sera utilisé comme table de données dans le projet
+l'entete se présente ainsi : ["Date","Open","High","Low","Close","Adjust Close","volume"]
+
+Nous cherchons à déterminer en moyenne la tendance du cours de chacun des compagnies dont nous 
+avous récupérés les données de fait il est conseillé de pratiquer une différenciation entre 
+les informations ["High","Low"] pour obtenir le cours moyen journalier et se concentrer sur la
+prédiction de la tendance générale au travers le temps qui a été choisi.
+
+
+
+
+
